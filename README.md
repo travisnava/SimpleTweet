@@ -41,7 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had to remake a twitter account just to avoid any confusion from my friends who follow me on twitter, so I created a fictional character named Alberto Sanchez to be the star of my twitter account in the gif.
 
 ## Open-source libraries used
 
